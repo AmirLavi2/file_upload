@@ -8,4 +8,4 @@ basic example for uploading a file with node.js
 - run 'npm init'
 - run 'node server'
 - open postman and upload single file
-![alt text](https://raw.githubusercontent.com/AmirLavi2/file_upload/branch/Postman.PNG)
+![alt text](https://raw.githubusercontent.com/AmirLavi2/file_upload/master/Postman.PNG)
