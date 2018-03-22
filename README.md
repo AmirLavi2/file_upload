@@ -7,5 +7,6 @@ basic example for uploading a file with node.js
 - verify installation of node.js with 'node -v'
 - run 'npm init'
 - run 'node server'
+![alt text](https://raw.githubusercontent.com/AmirLavi2/file_upload/master/run.png)
 - open postman and upload single file
 ![alt text](https://raw.githubusercontent.com/AmirLavi2/file_upload/master/Postman.PNG)
